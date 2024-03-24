@@ -55,9 +55,17 @@ Please note that you'll get an error, stating that there were no files to run. *
 - eShop Intergration
 -->
 ## Credits
+
+sNext (Cubix)
 <a href="https://github.com/Cube-Enix/SNext/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Cube-Enix/SNext" />
 </a>
+
+LGM Hydra Team
+<a href="https://github.com/LGM-Productions/LGM-Hydra/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LGM-Productions/LGM-Hydra" />
+</a>
+
 
 ## I need help!
 
