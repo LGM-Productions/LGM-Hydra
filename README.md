@@ -1,13 +1,10 @@
-# 🚀 SNext is going to the Infinite Level 
-But that means this repository is no longer maintained. Unfortunately if you run into an issue we can't provide much support. You can always fork this repository and take a crank at improving and fixing this system.
-
-## Join the discord to learn more about our new project!
-
+# 🎮 LGM Hydra 🎮
+(Info unfinished)
 <p align="center">
   <img src="https://i.imgur.com/i5CgPuX.png">
 </p>
 
-<h1 align="center">SNext<br>An open-source Scratch gaming console.</h1>
+<h1 align="center">This project an open-source gaming console.</h1>
 
 <!-- Shields -->
 <p align="center">
@@ -18,14 +15,14 @@ But that means this repository is no longer maintained. Unfortunately if you run
 
 ## Tell me more, please!
 
-As you wish. SNext is made with JavaScript, the same language that Scratch 3.0 runs off of. Games can be sumbitted to it, and if approved, they'll go on a server which can be accessed via the included shop. You can then download these games and play them offline or online through a little UI magic ~~and SNConnect~~!
+As you wish. This project is made with JavaScript, the same language that Scratch 3.0 runs off of. Games can be sumbitted to it, and if approved, they'll go on a server which can be accessed via the included shop. You can then download these games and play them offline or online through a little UI magic!
 
-## What do I need to run SNext?
+## What do I need to run this Project?
 
-SNext is now an ElectronJS executable, so that means all the dependencies come packaged with it. That's a good thing for you, since all you need is that now! You can get the lastest version from the [releases section](https://github.com/Cubix-Dev/SNext/releases/latest) to the right.
+LGM Hydra is now an ElectronJS executable, so that means all the dependencies come packaged with it. That's a good thing for you, since all you need is that now! You can get the lastest version from the [releases section](https://github.com/Cubix-Dev/SNext/releases/latest) to the right.
 
-## Wait a minute. Isn't this just Turbowarp then?
-Well, not quite. First of all, SNext isn't an editor.. Although we now have our own editor called [SN-Edit](https://cubixdev.org/SN-Edit/). Second, this is a console. Not an *emulator*. SNext is designed to run games from a seperate system mostly without an internet connection or the limitations of an everyday browser. Also, does TurboWarp have a custom server running to host games? Ok, maybe they do, but it isn't as cool as ours!
+~~## Wait a minute. Isn't this just Turbowarp then?
+Well, not quite. First of all, SNext isn't an editor.. Although we now have our own editor called [SN-Edit](https://cubixdev.org/SN-Edit/). Second, this is a console. Not an *emulator*. SNext is designed to run games from a seperate system mostly without an internet connection or the limitations of an everyday browser. Also, does TurboWarp have a custom server running to host games? Ok, maybe they do, but it isn't as cool as ours!~~
 
 ## Wow, this sounds fun! How do I add my game to the console?
 Well the short answer is you don't. With SNext no longer being supported by our team, we're not adding any new games at this time. However you can still develop for our new project! available in our [discord community](https://dsc.gg/cubix)
@@ -67,6 +64,3 @@ Please note that you'll get an error, stating that there were no files to run. *
 If you have any issues with using SNext or simply need assistance, please either;
 
 - Make a GitHub issue. Please provide screenshots of error messages if possible, or go as in depth as possible.
-- Join the [Discord](https://discord.gg/mqGKmRw9MY) and make a ticket in the #tickets channel.
-  - If the ticket bot is down, ping a Firmware dev (they have a magentaish color name) with your issue.
- As the project is no longer maintained, theres no guarantee we will resolve your issue.
