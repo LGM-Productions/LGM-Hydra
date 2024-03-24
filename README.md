@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/i5CgPuX.png">
 </p>
 
-<h1 align="center">This project an open-source gaming console.</h1>
+<h1 align="center">This project is an open-source gaming console.</h1>
 
 <!-- Shields -->
 <p align="center">
