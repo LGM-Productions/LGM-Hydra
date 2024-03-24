@@ -9,8 +9,8 @@
 <!-- Shields -->
 <p align="center">
   <img src="https://img.shields.io/discord/839159549260333117?color=7289da&label=SNext&logo=Snext" href="https://discord.gg/XU4zK5jjMc">
-  <img src="https://img.shields.io/github/last-commit/cube-enix/snext" href="https://github.com/Cube-Enix/SNext/commits/main">
-  <img src="https://img.shields.io/github/issues/cube-enix/snext" href="https://github.com/Cube-Enix/SNext/issues">
+  <img src="https://img.shields.io/github/last-commit/lgm-productions/lgm-hydra" href="https://github.com/LGM-Productions/LGM-Hydra/commits/main">
+  <img src="https://img.shields.io/github/issues/lgm-productions/lgm-hydra" href="https://github.com/LGM-Productions/LGM-Hydra/issues">
 </p>
 
 ## Tell me more, please!
